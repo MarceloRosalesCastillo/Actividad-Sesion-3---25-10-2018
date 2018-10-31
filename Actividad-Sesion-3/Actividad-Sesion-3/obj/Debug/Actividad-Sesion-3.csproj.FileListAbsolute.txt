@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\bin\Debug\Actividad-Sesion-3.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\obj\Debug\Actividad-Sesion-3.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\bin\Debug\Actividad-Sesion-3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\bin\Debug\Actividad-Sesion-3.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\obj\Debug\Actividad-Sesion-3.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Actividad-Sesion-3\Actividad-Sesion-3\obj\Debug\Actividad-Sesion-3.pdb
